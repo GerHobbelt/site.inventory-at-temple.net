@@ -1,4 +1,4 @@
-# site.inveentory-at-temple.com
+# site.inventory-at-temple.com
 
 This is the source code for the website: https://s.庙.net/ -- https://s.xn--jxt.net/
 
