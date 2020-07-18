@@ -10,3 +10,6 @@ The website itself is hosted in the `/docs/` directory as per [GitHub gh-pages d
 
 QRcode content URI: https://st.庙.net/?123456 or http://st.庙.net/12345678
 
+![image](https://user-images.githubusercontent.com/402462/87852179-fb816b80-c8ff-11ea-81d9-b5e8e3452f1e.png)
+
+![image](https://user-images.githubusercontent.com/402462/87852189-1358ef80-c900-11ea-9aa8-57ab52f21c45.png)
