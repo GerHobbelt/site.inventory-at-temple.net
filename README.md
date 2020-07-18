@@ -8,5 +8,5 @@ The website itself is hosted in the `/docs/` directory as per [GitHub gh-pages d
 
 ## Sample 
 
-QRcode content URI: https://st.庙.net/12345678
+QRcode content URI: https://st.庙.net/?123456 or http://st.庙.net/12345678
 
